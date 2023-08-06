@@ -1,0 +1,18 @@
+" =========================================================
+" =================== Basic Options =======================
+
+syntax on
+filetype on
+filetype indent on
+
+set number|  "display line number
+set cursorline|  "highlight current line
+
+" tab configurations
+set autoindent|  "automatically indent
+set smartindent|  "similar to autoindent but recognize the syntax of more program languages
+set expandtab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+
